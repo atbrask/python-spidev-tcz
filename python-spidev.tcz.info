@@ -1,0 +1,14 @@
+Title:          python-spidev.tcz
+Description:    Python bindings for Linux SPI access through spidev
+Version:        3.0
+Author:         Volker Thoms, Stephen Caudle
+Original-site:  https://github.com/doceme/py-spidev
+Copying-policy: GPL v2
+Size:		12.0K
+Extension_by:   atbrask
+Tags:           PYTHON SPI LIBRARY
+Comments:       Binaries only
+                ----
+                Compiled for RPI
+Change-log:     ----
+Current:        2015-11-07 Updated to spidev 3.0 and piCore 6.1

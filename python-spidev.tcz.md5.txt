@@ -1,0 +1,1 @@
+bb40e61dad4a9481cab1492994d3f644  python-spidev.tcz
