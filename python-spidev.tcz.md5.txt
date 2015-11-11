@@ -1,1 +1,1 @@
-bb40e61dad4a9481cab1492994d3f644  python-spidev.tcz
+4c83a92f9a0e63a1f8907596b70e019a  python-spidev.tcz
